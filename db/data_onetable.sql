@@ -1,4 +1,4 @@
-USE VirtualBar;
+USE wtipoqfemy48u18p;
 
 INSERT INTO bars (category,drink,image,ingredients,method) VALUES ("whiskey","manhattan","/images/Manhattan.png","2 ounces rye whiskey, bourbon, or Canadian whiskey, 1 ounce sweet vermouth, 2 to 3 dashes Angostura Bitters, Garnish: cherry","Gather the ingredients, Pour the ingredients into a mixing glass with ice cubes,  Stir well Strain into a chilled cocktail glass, Garnish with the cherry");
 
