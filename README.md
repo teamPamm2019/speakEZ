@@ -6,21 +6,21 @@ It's a one stop shop for all things drinks! Simply select a liquor category and 
 
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You will find all the necessary files needed to create a
 
 ### Prerequesites
-package.json<br/>
-Express <br/>
-Express Handlebars<br/>
-BodyParser<br/>
-Sequelize<br/>
-MySQL<br/>
-Heroku<br/>
-Github<br/>
+* package.json<br/>
+* Express <br/>
+* Express Handlebars<br/>
+* BodyParser<br/>
+* Sequelize<br/>
+* MySQL<br/>
+* Heroku<br/>
+* Github<br/>
 
 ### Project Authors
-Miguel Galarraga
-Patrick Heron
-Aimee Bojorquez 
-Miguel Fernandez
+Miguel Galarraga<br/>
+Patrick Heron<br/>
+Aimee Bojorquez <br/>
+Miguel Fernandez<br/>
 
