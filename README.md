@@ -6,9 +6,9 @@ It's a one stop shop for all things drinks! Simply select a liquor category and 
 
 
 ## Getting Started
-In this github repository you will find resources tailored for a website that can assist online users in finding recipes from a select category of liquors. Users will also be able to add recipes into this site as well.
+In this github repository you will find resources tailored for a website that can assist online users in finding recipes from a select category of liquors. In addition to finding recipes, users can also add their own recipes into the categories provided.
 
-
+Please make sure to review the prerequesites outlined below. The resources provided in this repository will not work without installing the below listed.
 
 ### Prerequesites
 * package.json<br/>
@@ -18,6 +18,7 @@ In this github repository you will find resources tailored for a website that ca
 * Sequelize<br/>
 * MySQL<br/>
 * Heroku<br/>
+* JawsDB MySQL <br/>
 * Github<br/>
 
 ### Project Authors
