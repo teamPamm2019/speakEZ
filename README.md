@@ -6,7 +6,9 @@ It's a one stop shop for all things drinks! Simply select a liquor category and 
 
 
 ## Getting Started
-You will find all the necessary files needed to create a
+In this github repository you will find resources tailored for a website that can assist online users in finding recipes from a select category of liquors. Users will also be able to add recipes into this site as well.
+
+
 
 ### Prerequesites
 * package.json<br/>
