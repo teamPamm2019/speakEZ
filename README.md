@@ -1,4 +1,8 @@
 
+
+### Heroku application: 
+https://speakez-2020.herokuapp.com
+
 # SpeakEZ
 Have a tinkering for rum but don't know what kind of drink to make? Check out SpeakEZbar!
 
